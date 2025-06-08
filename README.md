@@ -38,7 +38,8 @@ calculator-app/
 
 1. Clone the repo or download the ZIP.
 2. Open `index.html` in your browser.
-3. Use the calculator!
+3. Or Click https://chrispok18.github.io/calculator-app/
+4. Use the calculator!
 
 ## 🎓 What I Learned
 
