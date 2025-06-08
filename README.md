@@ -53,7 +53,11 @@ calculator-app/
 
 - Add keyboard support  
 - Add calculation history  
-- Improve responsiveness further  
+- Improve responsiveness further
+
+- ![image](https://github.com/user-attachments/assets/f71f503a-33c9-42ac-81f0-ae24f68ff609)
+
+
 
 ---
 
